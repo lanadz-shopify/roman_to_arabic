@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Converts Roman number to integer}
   spec.description   = %q{Tool that provides reliable conversion of the numbers
                           from Roman system to Arabic.}
-  spec.homepage      = "https://github.com/lanadz"
+  spec.homepage      = "https://github.com/lanadz/roman_to_arabic"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
